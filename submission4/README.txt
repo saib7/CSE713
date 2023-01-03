@@ -1,8 +1,11 @@
 Link to unlisted youtube video:
 https://www.youtube.com/watch?v=BJEH8nGwNrg
 
-Paper Title:
+Topic Name:
 English To French Neural Machine Translation Using Transformer
+
+Conference Link:
+http://www.icmlt.org/
 
 Group Number:
 8
