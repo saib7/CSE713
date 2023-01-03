@@ -1,3 +1,5 @@
+Video link: https://www.youtube.com/watch?v=v2kCez8UKWI&list=PLZRmKU76AJr4Cz4HTo0_GIVDzoVmF9qDT&index=5
+
 Topic Name:  
 Prediction of women’s diabetes based on symptoms
 using machine learning algorithms
