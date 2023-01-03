@@ -1,6 +1,9 @@
 Link to unlisted youtube video:
 https://www.youtube.com/watch?v=BJEH8nGwNrg
 
+Paper Title:
+English To French Neural Machine Translation Using Transformer
+
 Group Number:
 8
 
