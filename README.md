@@ -1,4 +1,5 @@
-Course title: CSE713 <br/ >
-Pattern Recognition <br/ >
-BRAC University <br/ >
-Department of Computer Science & Engineering <br/ >
+# Course title: CSE713  
+## Pattern Recognition 
+## BRAC University 
+## Department of Computer Science & Engineering 
+## Id: 22166032
